@@ -20,11 +20,21 @@ This file contains the code to generate the plots in the manuscript.
 Please cite the following if you find our data useful.
 
 ```
-@article{tags_imc_2023,
-  title={I Tag, You Tag, Everybody Tags!},
-  author={Ibrahim, Hazem and Asim, Rohail and Varvello, Matteo and Zaki, Yasir},
-  booktitle={Proceedings of the 23rd ACM Internet Measurement Conference},
-  year={2023}
+@inproceedings{10.1145/3618257.3624834,
+author = {Ibrahim, Hazem and Asim, Rohail and Varvello, Matteo and Zaki, Yasir},
+title = {I Tag, You Tag, Everybody Tags!},
+year = {2023},
+isbn = {9798400703829},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3618257.3624834},
+doi = {10.1145/3618257.3624834},
+booktitle = {Proceedings of the 2023 ACM on Internet Measurement Conference},
+pages = {561–568},
+numpages = {8},
+keywords = {location tags, privacy, tracking},
+location = {Montreal QC, Canada},
+series = {IMC '23}
 }
 ```
 
